@@ -1,2 +1,2 @@
-# comp313-tester
+# comp313-Team6-tester
 Test Module for the MindQuiz application
